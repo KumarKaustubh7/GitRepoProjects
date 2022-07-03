@@ -1,0 +1,12 @@
+D:\Projects\VideoGameApp\bin\Debug\VideoGameApp.exe.config
+D:\Projects\VideoGameApp\bin\Debug\VideoGameApp.exe
+D:\Projects\VideoGameApp\bin\Debug\VideoGameApp.pdb
+D:\Projects\VideoGameApp\obj\Debug\VideoGameApp.csproj.AssemblyReference.cache
+D:\Projects\VideoGameApp\obj\Debug\VideoGameApp.Form1.resources
+D:\Projects\VideoGameApp\obj\Debug\VideoGameApp.Properties.Resources.resources
+D:\Projects\VideoGameApp\obj\Debug\VideoGameApp.csproj.GenerateResource.cache
+D:\Projects\VideoGameApp\obj\Debug\VideoGameApp.csproj.CoreCompileInputs.cache
+D:\Projects\VideoGameApp\obj\Debug\VideoGameApp.exe
+D:\Projects\VideoGameApp\obj\Debug\VideoGameApp.pdb
+D:\Projects\VideoGameApp\obj\Debug\VideoGameApp.Trexgame.resources
+D:\Projects\VideoGameApp\obj\Debug\VideoGameApp.Flappybird.resources
